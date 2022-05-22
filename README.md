@@ -1,4 +1,4 @@
-# Flora-scent-Bumble-bee-interaction-network
+# Floral-scent-Bumble-bee-interaction-network
 
 # Retention Index
 
